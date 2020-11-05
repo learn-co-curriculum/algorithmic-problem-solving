@@ -48,7 +48,7 @@ You can also test this procedure against the test cases before writing any code.
 
 Now that you have a map, convert it to code!
 
-At this point, the goal is to make it work, e.g. pass those test cases! If you’re having a hard time getting all of the test cases working, check that your pseudocode actually solves for all of those cases and then check that your code does what the pseudocode says it should.
+At this point, the goal is to make it work: pass those test cases! If you’re having a hard time getting all of the test cases working, check that your pseudocode actually solves for all of those cases and then check that your code does what the pseudocode says it should.
 
 ### 5. Make It Clean and Readable
 
@@ -59,9 +59,10 @@ Don’t forget to test your code again!
 ### 6. Optimize?
 
 Don’t optimize your code for time or space complexity (e.g. how long it takes to run or how much memory it’s using) unless you absolutely need to. There are three major situations that call for optimization:
-The solution is hanging on certain test cases, and therefore cannot pass since it’s taking too long
-You were asked to do so
-You think it would be fun to try
+
+- The solution is hanging on certain test cases, and therefore cannot pass since it’s taking too long
+- You were asked to do so
+- You think it would be fun to try
 
 ### Conclusion
 
